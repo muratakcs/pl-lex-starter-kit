@@ -3,4 +3,4 @@ lex:
 	gcc -o myprog lex.yy.c -ll
 
 clean:
-	rm myprog
+	rm myprog lex.yy.c
