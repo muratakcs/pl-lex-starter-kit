@@ -1,4 +1,4 @@
-# Programming Language Murat
+# Programming Language Mrt
 
 # Syntax
 
