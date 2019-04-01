@@ -1,12 +1,12 @@
-#Programming Language Murat
+# Programming Language Murat
 
-#Syntax
+# Syntax
 
 <prog> -> <stmt> | <stmts>
 
 <stmt> -> ...
 
-#Explanations about the language
+# Explanations about the language
 
 - Takes a file with extension .mrt
 - Has
