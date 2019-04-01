@@ -11,6 +11,7 @@
 - Takes a file with extension .mrt
 - Has if, while, ...
 
-- You can run your program giving it to myprog as input:
+- You can run your program by running the makefile and giving it to myprog as input:
 
+make
 ./myprog < example.mrt
