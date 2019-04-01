@@ -1,12 +1,11 @@
-# Programming Language Mrt
+## Programming Language Mrt
 
-## Syntax
+# Syntax
 
 \<prog\> : \<stmt\> | \<stmts\>
-
 \<stmt\> : \<expr\> ...
 
-## Explanations about the language
+# Explanations about the language
 
 - Takes a file with extension .mrt
 - Has if, while, ...
