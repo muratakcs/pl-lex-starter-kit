@@ -3,6 +3,7 @@
 # Syntax
 
 \<prog\> : \<stmt\> | \<stmts\>
+
 \<stmt\> : \<expr\> ...
 
 # Explanations about the language
